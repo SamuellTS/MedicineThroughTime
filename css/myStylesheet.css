@@ -12,6 +12,12 @@ a {
     background-color: #D6D4A8;
     border-color: #4F1413;
     border-width: medium;
+    margin-bottom: 20px;
+}
+footer {
+    background-color: #4F1413;
+    padding-top: 10px;
+    margin-top: 20px;
 }
 /*
 Red - D6022A
