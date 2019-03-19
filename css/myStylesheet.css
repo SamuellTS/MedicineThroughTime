@@ -1,0 +1,20 @@
+body {
+    background-color: #D6D4A8;
+}
+.navbar-default {
+    background-color: #4F1413;
+    border-color: #4F1413;
+}
+a {
+    color: white;
+}
+.thumbnail {
+    background-color: #D6D4A8;
+    border-color: #4F1413;
+    border-width: medium;
+}
+/*
+Red - D6022A
+Brown - 4F1413
+Cream/White - D6D4A8
+*/
