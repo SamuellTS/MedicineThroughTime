@@ -7,6 +7,19 @@ body {
 }
 a {
     color: white;
+    font-family: 'Cinzel', serif;
+    font-size: 12px;
+}
+h1 {
+    font-family: 'Cormorant Unicase', serif;
+}
+h2 {
+    font-family: 'Cormorant Unicase', serif;
+    font-size: 70px;
+}
+p {
+    font-family: 'Cinzel', serif;
+    font-size: 18px;
 }
 .thumbnail {
     background-color: #D6D4A8;
